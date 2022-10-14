@@ -1,0 +1,8 @@
+[Desktop Entry]
+Categories=GNOME;Utility;X-SuSE-DesktopUtility;
+Comment=Cakes don't lie.
+Exec=gnome-pie
+Icon=gnome-pie
+Keywords=Utility;Menu;
+Name=Gnome-Pie
+Type=Application
