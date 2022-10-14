@@ -1,0 +1,17 @@
+[KFileDialog Settings]
+Recent Files[$e]=dr460nized-start.png,file:///mnt/fe44d043-da51-43df-a7a8-d338cc205b09/Backup/Restoration/dr460nized-start.png
+Recent URLs[$e]=file:///mnt/fe44d043-da51-43df-a7a8-d338cc205b09/Backup/Restoration/
+iconViewIconSize=64
+
+[MainWindow]
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABE4AAAK8AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1 Height 1920x1080=700
+eDP-1 Width 1920x1080=1102
+eDP-1 XPosition 1920x1080=426
+eDP-1 YPosition 1920x1080=144
+
+[Open-with settings]
+CompletionMode=1
+History=kon,gnome,yaku,latte

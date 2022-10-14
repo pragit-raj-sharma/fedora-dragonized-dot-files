@@ -1,0 +1,14 @@
+[Appearance]
+BackgroundColorOpacity=20
+Blur=true
+Skin=Slate
+SkinInstalledWithKns=true
+Translucency=true
+
+[Dialogs]
+FirstRun=false
+
+[Window]
+DynamicTabTitles=true
+Height=60
+KeepOpen=true

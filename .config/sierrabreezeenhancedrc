@@ -1,0 +1,13 @@
+[Common]
+ShadowColor=102,21,152
+SpecificShadowsInactiveWindows=true
+
+[Windeco]
+BackgroundGradientIntensity=100
+BackgroundOpacity=60
+ButtonStyle=sierraColorSymbols
+DrawTitleBarSeparator=false
+MatchColorForTitleBar=true
+OpaqueTitleBar=false
+SystemForegroundColor=true
+UnisonHovering=false
