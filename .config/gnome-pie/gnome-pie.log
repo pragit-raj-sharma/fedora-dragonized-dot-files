@@ -1,0 +1,1480 @@
+[2022:08:28:18:34:17:592708 WARNING] Failed to find pie configuration file "pies.conf"! (This should only happen when Gnome-Pie is started for the first time...)
+[2022:08:28:18:34:17:592797 WARNING] Failed to find settings file "gnome-pie.conf"! (This should only happen when Gnome-Pie is started for the first time...)
+[2022:08:28:18:34:17:593578 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:08:28:18:34:17:593834 MESSAGE] Creating new configuration file in "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:08:28:18:34:17:597015  ERROR ] gnome_pie_action_registry_new_for_app_info: assertion 'info != NULL' failed
+[2022:08:28:18:34:17:597037  ERROR ] gnome_pie_pie_add_action: assertion 'action != NULL' failed
+[2022:08:28:18:34:17:598280 WARNING] Failed to find bookmarks file!
+[2022:08:28:18:34:17:630161 MESSAGE] Saving Pies to "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:08:28:18:34:17:750861 WARNING] Error loading settings: gnome-pie.conf not found! Using defaults...
+[2022:08:28:18:34:17:757296 WARNING] No theme specified! Using default...
+[2022:08:28:18:34:17:767017 MESSAGE] Started happily...
+[2022:08:28:18:37:39:046852 MESSAGE] Saving Pies to "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:08:28:23:18:59:058192 MESSAGE] Main menu changed...
+[2022:08:28:23:21:23:213150 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:08:28:23:21:23:214946 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:08:28:23:21:23:399645 WARNING] Failed to find bookmarks file!
+[2022:08:28:23:21:23:896062 MESSAGE] Started happily...
+[2022:08:28:23:25:02:218793 MESSAGE] Saving Pies to "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:08:28:23:32:15:947589 MESSAGE] Main menu changed...
+[2022:08:29:09:23:31:520813 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:08:29:09:23:31:521960 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:08:29:09:23:31:784063 WARNING] Failed to find bookmarks file!
+[2022:08:29:09:23:32:328288 MESSAGE] Started happily...
+[2022:08:29:09:36:54:696696 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:08:29:09:36:54:698166 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:08:29:09:36:54:984317 WARNING] Failed to find bookmarks file!
+[2022:08:29:09:36:55:613482 MESSAGE] Started happily...
+[2022:08:29:09:57:20:042175 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:08:29:09:57:20:042614 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:08:29:09:57:20:202262 WARNING] Failed to find bookmarks file!
+[2022:08:29:09:57:20:639032 MESSAGE] Started happily...
+[2022:08:29:10:00:50:028344 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:08:29:10:00:50:028825 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:08:29:10:00:50:245083 WARNING] Failed to find bookmarks file!
+[2022:08:29:10:00:50:713438 MESSAGE] Started happily...
+[2022:08:29:10:06:47:823981 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:08:29:10:06:47:825228 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:08:29:10:06:48:086632 WARNING] Failed to find bookmarks file!
+[2022:08:29:10:06:48:691141 MESSAGE] Started happily...
+[2022:08:29:15:43:47:728588 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:08:29:15:43:47:729010 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:08:29:15:43:47:954234 WARNING] Failed to find bookmarks file!
+[2022:08:29:15:43:48:470529 MESSAGE] Started happily...
+[2022:08:29:17:19:24:778073 MESSAGE] Main menu changed...
+[2022:08:29:18:42:49:122261 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:08:29:18:42:49:122646 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:08:29:18:42:49:349257 WARNING] Failed to find bookmarks file!
+[2022:08:29:18:42:49:886076 MESSAGE] Started happily...
+[2022:08:29:19:56:03:687183 MESSAGE] Caught signal (15), bye!
+[2022:08:29:22:01:17:832593 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:08:29:22:01:17:833896 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:08:29:22:01:18:111634 WARNING] Failed to find bookmarks file!
+[2022:08:29:22:01:18:726751 MESSAGE] Started happily...
+[2022:08:29:22:57:02:824839 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:08:29:22:57:02:830449 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:08:29:22:57:03:139615 WARNING] Failed to find bookmarks file!
+[2022:08:29:22:57:03:788895 MESSAGE] Started happily...
+[2022:08:30:00:10:49:700010 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:08:30:00:10:49:700900 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:08:30:00:10:49:942141 WARNING] Failed to find bookmarks file!
+[2022:08:30:00:10:50:491229 MESSAGE] Started happily...
+[2022:08:30:00:19:19:191641 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:08:30:00:19:19:192633 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:08:30:00:19:19:433842 WARNING] Failed to find bookmarks file!
+[2022:08:30:00:19:19:977652 MESSAGE] Started happily...
+[2022:08:30:00:47:30:890260 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:08:30:00:47:30:891102 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:08:30:00:47:31:143386 WARNING] Failed to find bookmarks file!
+[2022:08:30:00:47:31:610326 MESSAGE] Started happily...
+[2022:08:30:09:42:10:026195 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:08:30:09:42:10:027171 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:08:30:09:42:10:309756 WARNING] Failed to find bookmarks file!
+[2022:08:30:09:42:10:894302 MESSAGE] Started happily...
+[2022:08:30:09:45:20:169203 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:08:30:09:45:20:169684 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:08:30:09:45:20:431775 WARNING] Failed to find bookmarks file!
+[2022:08:30:09:45:21:013263 MESSAGE] Started happily...
+[2022:08:30:09:57:43:574241 MESSAGE] Devices changed...
+[2022:08:30:09:59:46:039256 MESSAGE] Devices changed...
+[2022:08:30:10:40:28:220593 MESSAGE] Devices changed...
+[2022:08:30:11:33:23:934775 MESSAGE] Devices changed...
+[2022:08:30:13:55:06:970112 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:08:30:13:55:06:972448 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:08:30:13:55:07:179731 WARNING] Failed to find bookmarks file!
+[2022:08:30:13:55:07:609830 MESSAGE] Started happily...
+[2022:08:30:17:48:22:551323 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:08:30:17:48:22:557118 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:08:30:17:48:22:760193 WARNING] Failed to find bookmarks file!
+[2022:08:30:17:48:23:271177 MESSAGE] Started happily...
+[2022:08:30:20:02:47:582582 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:08:30:20:02:47:584833 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:08:30:20:02:47:827140 WARNING] Failed to find bookmarks file!
+[2022:08:30:20:02:48:333037 MESSAGE] Started happily...
+[2022:08:30:20:12:44:091960 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:08:30:20:12:44:092965 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:08:30:20:12:44:240792 WARNING] Failed to find bookmarks file!
+[2022:08:30:20:12:44:765379 MESSAGE] Started happily...
+[2022:08:30:22:27:51:441242 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:08:30:22:27:51:442363 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:08:30:22:27:51:653675 WARNING] Failed to find bookmarks file!
+[2022:08:30:22:27:52:137714 MESSAGE] Started happily...
+[2022:08:30:23:27:11:246957 MESSAGE] Saving Pies to "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:08:31:07:32:51:476727 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:08:31:07:32:51:478335 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:08:31:07:32:51:720315 WARNING] Failed to find bookmarks file!
+[2022:08:31:07:32:52:397901 MESSAGE] Started happily...
+[2022:08:31:07:44:58:242241 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:08:31:07:44:58:243148 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:08:31:07:44:58:423081 WARNING] Failed to find bookmarks file!
+[2022:08:31:07:44:59:109182 MESSAGE] Started happily...
+[2022:08:31:08:55:01:159324 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:08:31:08:55:01:160021 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:08:31:08:55:01:387421 WARNING] Failed to find bookmarks file!
+[2022:08:31:08:55:01:909679 MESSAGE] Started happily...
+[2022:08:31:09:26:40:217958 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:08:31:09:26:40:218645 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:08:31:09:26:40:416351 WARNING] Failed to find bookmarks file!
+[2022:08:31:09:26:40:920665 MESSAGE] Started happily...
+[2022:08:31:10:41:54:609728 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:08:31:10:41:54:611429 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:08:31:10:41:54:860207 WARNING] Failed to find bookmarks file!
+[2022:08:31:10:41:55:370682 MESSAGE] Started happily...
+[2022:08:31:12:29:33:443564 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:08:31:12:29:33:447871 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:08:31:12:29:33:623976 WARNING] Failed to find bookmarks file!
+[2022:08:31:12:29:34:104867 MESSAGE] Started happily...
+[2022:08:31:13:10:56:087906 MESSAGE] Main menu changed...
+[2022:08:31:13:10:58:109783 MESSAGE] Main menu changed...
+[2022:08:31:17:18:51:745043 MESSAGE] Main menu changed...
+[2022:08:31:17:45:36:778290 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:08:31:17:45:36:779416 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:08:31:17:45:36:976533 WARNING] Failed to find bookmarks file!
+[2022:08:31:17:45:37:425424 MESSAGE] Started happily...
+[2022:09:01:12:47:52:659354 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:01:12:47:52:659976 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:01:12:47:52:872512 WARNING] Failed to find bookmarks file!
+[2022:09:01:12:47:53:359903 MESSAGE] Started happily...
+[2022:09:01:12:54:54:455926 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:01:12:54:54:457312 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:01:12:54:54:682553 WARNING] Failed to find bookmarks file!
+[2022:09:01:12:54:55:155325 MESSAGE] Started happily...
+[2022:09:01:15:24:29:184208 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:01:15:24:29:185693 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:01:15:24:29:326569 WARNING] Failed to find bookmarks file!
+[2022:09:01:15:24:29:865201 MESSAGE] Started happily...
+[2022:09:01:16:30:36:214605 MESSAGE] Main menu changed...
+[2022:09:01:16:31:32:285615 MESSAGE] Main menu changed...
+[2022:09:01:17:10:01:752318 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:01:17:10:01:752985 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:01:17:10:01:966446 WARNING] Failed to find bookmarks file!
+[2022:09:01:17:10:02:471378 MESSAGE] Started happily...
+[2022:09:01:17:26:30:424043 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:01:17:26:30:425781 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:01:17:26:30:619759 WARNING] Failed to find bookmarks file!
+[2022:09:01:17:26:31:037252 MESSAGE] Started happily...
+[2022:09:01:17:58:32:244878 MESSAGE] Main menu changed...
+[2022:09:01:20:22:31:834785 MESSAGE] Caught signal (15), bye!
+[2022:09:01:20:23:23:966183 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:01:20:23:23:966851 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:01:20:23:24:190689 WARNING] Failed to find bookmarks file!
+[2022:09:01:20:23:24:676305 MESSAGE] Started happily...
+[2022:09:01:21:03:28:216832 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:01:21:03:28:219089 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:01:21:03:28:485760 WARNING] Failed to find bookmarks file!
+[2022:09:01:21:03:29:108325 MESSAGE] Started happily...
+[2022:09:01:21:24:24:614465 MESSAGE] Main menu changed...
+[2022:09:02:21:11:40:968983 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:02:21:11:40:970776 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:02:21:11:41:141737 WARNING] Failed to find bookmarks file!
+[2022:09:02:21:11:41:632256 MESSAGE] Started happily...
+[2022:09:02:23:58:24:884056 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:02:23:58:24:884720 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:02:23:58:25:266553 WARNING] Failed to find bookmarks file!
+[2022:09:02:23:58:26:068675 MESSAGE] Started happily...
+[2022:09:03:01:25:55:615934 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:03:01:25:55:618383 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:03:01:25:55:798253 WARNING] Trying to add pie "Internet": ID "4141" already exists! Using "4142" instead...
+[2022:09:03:01:25:55:819392 WARNING] Failed to find bookmarks file!
+[2022:09:03:01:25:56:361947 MESSAGE] Started happily...
+[2022:09:03:08:38:04:226902 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:03:08:38:04:227878 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:03:08:38:04:473427 WARNING] Failed to find bookmarks file!
+[2022:09:03:08:38:04:981886 MESSAGE] Started happily...
+[2022:09:03:08:44:44:465323 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:03:08:44:44:466614 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:03:08:44:44:686481 WARNING] Trying to add pie "Games": ID "5741" already exists! Using "5742" instead...
+[2022:09:03:08:44:44:709403 WARNING] Failed to find bookmarks file!
+[2022:09:03:08:44:45:194727 MESSAGE] Started happily...
+[2022:09:03:10:11:39:667221 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:03:10:11:39:668011 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:03:10:11:39:903033 WARNING] Failed to find bookmarks file!
+[2022:09:03:10:11:40:408640 MESSAGE] Started happily...
+[2022:09:03:16:37:24:602397 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:03:16:37:24:605466 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:03:16:37:24:776147 WARNING] Failed to find bookmarks file!
+[2022:09:03:16:37:25:434169 MESSAGE] Started happily...
+[2022:09:03:18:52:22:621923 MESSAGE] Main menu changed...
+[2022:09:03:18:52:28:156288 MESSAGE] Main menu changed...
+[2022:09:03:18:53:13:088863 MESSAGE] Main menu changed...
+[2022:09:03:18:54:08:518355 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:03:18:54:08:521201 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:03:18:54:08:736731 WARNING] Failed to find bookmarks file!
+[2022:09:03:18:54:09:207723 MESSAGE] Started happily...
+[2022:09:03:18:56:23:050246 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:03:18:56:23:055295 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:03:18:56:23:298941 WARNING] Failed to find bookmarks file!
+[2022:09:03:18:56:23:795919 MESSAGE] Started happily...
+[2022:09:03:18:59:26:104853 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:03:18:59:26:105960 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:03:18:59:26:356290 WARNING] Failed to find bookmarks file!
+[2022:09:03:18:59:26:856062 MESSAGE] Started happily...
+[2022:09:03:19:06:57:108052 MESSAGE] Main menu changed...
+[2022:09:03:19:10:41:909304 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:03:19:10:41:910780 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:03:19:10:42:102371 WARNING] Failed to find bookmarks file!
+[2022:09:03:19:10:42:623356 MESSAGE] Started happily...
+[2022:09:03:19:20:46:582096 MESSAGE] Main menu changed...
+[2022:09:03:19:21:57:111147 MESSAGE] Main menu changed...
+[2022:09:03:19:22:34:319242 MESSAGE] Main menu changed...
+[2022:09:03:19:23:03:767045 MESSAGE] Main menu changed...
+[2022:09:03:19:23:04:745099 MESSAGE] Main menu changed...
+[2022:09:03:19:23:18:094956 MESSAGE] Main menu changed...
+[2022:09:03:19:23:18:893037 MESSAGE] Main menu changed...
+[2022:09:03:20:29:57:604478 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:03:20:29:57:605091 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:03:20:29:57:761566 WARNING] Failed to find bookmarks file!
+[2022:09:03:20:29:58:316284 MESSAGE] Started happily...
+[2022:09:03:21:59:06:248760 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:03:21:59:06:249481 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:03:21:59:06:464446 WARNING] Failed to find bookmarks file!
+[2022:09:03:21:59:06:984145 MESSAGE] Started happily...
+[2022:09:03:22:17:08:087095 MESSAGE] Main menu changed...
+[2022:09:03:22:36:07:945718 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:03:22:36:07:951339 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:03:22:36:08:214507 WARNING] Failed to find bookmarks file!
+[2022:09:03:22:36:08:697295 MESSAGE] Started happily...
+[2022:09:04:10:24:37:839147 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:04:10:24:37:839962 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:04:10:24:38:123372 WARNING] Failed to find bookmarks file!
+[2022:09:04:10:24:38:787872 MESSAGE] Started happily...
+[2022:09:04:12:03:40:877545 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:04:12:03:40:878400 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:04:12:03:41:121653 WARNING] Failed to find bookmarks file!
+[2022:09:04:12:03:41:715940 MESSAGE] Started happily...
+[2022:09:04:14:08:29:375021 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:04:14:08:29:376290 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:04:14:08:29:637612 WARNING] Failed to find bookmarks file!
+[2022:09:04:14:08:30:281717 MESSAGE] Started happily...
+[2022:09:04:14:11:04:260917 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:04:14:11:04:261858 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:04:14:11:04:546780 WARNING] Failed to find bookmarks file!
+[2022:09:04:14:11:05:190510 MESSAGE] Started happily...
+[2022:09:04:17:46:26:899338 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:04:17:46:26:900647 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:04:17:46:27:226949 WARNING] Failed to find bookmarks file!
+[2022:09:04:17:46:27:782730 MESSAGE] Started happily...
+[2022:09:04:17:50:47:936374 MESSAGE] Devices changed...
+[2022:09:04:17:52:05:694769 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:04:17:52:05:695480 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:04:17:52:05:943482 WARNING] Failed to find bookmarks file!
+[2022:09:04:17:52:06:461982 MESSAGE] Started happily...
+[2022:09:04:18:33:24:769435 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:04:18:33:24:773537 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:04:18:33:25:097654 WARNING] Failed to find bookmarks file!
+[2022:09:04:18:33:25:710278 MESSAGE] Started happily...
+[2022:09:04:21:02:44:343494 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:04:21:02:44:344612 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:04:21:02:44:589066 WARNING] Failed to find bookmarks file!
+[2022:09:04:21:02:45:117346 MESSAGE] Started happily...
+[2022:09:05:00:46:44:509982 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:05:00:46:44:510686 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:05:00:46:44:745209 WARNING] Failed to find bookmarks file!
+[2022:09:05:00:46:45:235315 MESSAGE] Started happily...
+[2022:09:05:09:16:50:142626 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:05:09:16:50:143586 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:05:09:16:50:407364 WARNING] Failed to find bookmarks file!
+[2022:09:05:09:16:51:003561 MESSAGE] Started happily...
+[2022:09:05:12:51:41:180794 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:05:12:51:41:182040 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:05:12:51:41:471061 WARNING] Failed to find bookmarks file!
+[2022:09:05:12:51:42:063389 MESSAGE] Started happily...
+[2022:09:05:14:07:48:210151 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:05:14:07:48:211143 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:05:14:07:48:490325 WARNING] Failed to find bookmarks file!
+[2022:09:05:14:07:49:008218 MESSAGE] Started happily...
+[2022:09:05:21:40:55:769093 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:05:21:40:55:771656 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:05:21:40:56:069528 WARNING] Failed to find bookmarks file!
+[2022:09:05:21:40:56:568619 MESSAGE] Started happily...
+[2022:09:05:22:22:53:657295 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:05:22:22:53:659110 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:05:22:22:53:949787 WARNING] Failed to find bookmarks file!
+[2022:09:05:22:22:54:423983 MESSAGE] Started happily...
+[2022:09:06:00:22:16:326660 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:06:00:22:16:328522 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:06:00:22:16:648646 WARNING] Failed to find bookmarks file!
+[2022:09:06:00:22:17:177457 MESSAGE] Started happily...
+[2022:09:06:01:44:45:457824 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:06:01:44:45:459706 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:06:01:44:45:708950 WARNING] Failed to find bookmarks file!
+[2022:09:06:01:44:46:229362 MESSAGE] Started happily...
+[2022:09:06:10:44:23:677998 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:06:10:44:23:678762 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:06:10:44:23:940865 WARNING] Failed to find bookmarks file!
+[2022:09:06:10:44:24:414128 MESSAGE] Started happily...
+[2022:09:06:11:44:36:549963 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:06:11:44:36:554638 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:06:11:44:36:888733 WARNING] Failed to find bookmarks file!
+[2022:09:06:11:44:37:659411 MESSAGE] Started happily...
+[2022:09:06:12:43:53:666828 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:06:12:43:53:669277 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:06:12:43:53:931029 WARNING] Failed to find bookmarks file!
+[2022:09:06:12:43:54:425311 MESSAGE] Started happily...
+[2022:09:06:12:49:43:308666 MESSAGE] Caught signal (15), bye!
+[2022:09:06:12:49:49:742121 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:06:12:49:49:743275 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:06:12:49:49:907115 WARNING] Failed to find bookmarks file!
+[2022:09:06:12:49:50:459305 MESSAGE] Started happily...
+[2022:09:06:12:51:58:391357 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:06:12:51:58:392257 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:06:12:51:58:691426 WARNING] Failed to find bookmarks file!
+[2022:09:06:12:51:59:271994 MESSAGE] Started happily...
+[2022:09:06:16:12:38:564529 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:06:16:12:38:566071 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:06:16:12:38:987195 WARNING] Failed to find bookmarks file!
+[2022:09:06:16:12:40:071240 MESSAGE] Started happily...
+[2022:09:06:19:15:50:677454 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:06:19:15:50:680811 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:06:19:15:50:859800 WARNING] Failed to find bookmarks file!
+[2022:09:06:19:15:51:396824 MESSAGE] Started happily...
+[2022:09:06:21:38:51:845109 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:06:21:38:51:848707 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:06:21:38:51:983498 WARNING] Failed to find bookmarks file!
+[2022:09:06:21:38:52:546646 MESSAGE] Started happily...
+[2022:09:07:09:39:18:096292 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:07:09:39:18:097159 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:07:09:39:18:236457 WARNING] Failed to find bookmarks file!
+[2022:09:07:09:39:18:766828 MESSAGE] Started happily...
+[2022:09:07:11:26:09:170553 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:07:11:26:09:171217 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:07:11:26:09:356512 WARNING] Failed to find bookmarks file!
+[2022:09:07:11:26:09:783558 MESSAGE] Started happily...
+[2022:09:07:13:58:27:771356 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:07:13:58:27:771976 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:07:13:58:27:993584 WARNING] Failed to find bookmarks file!
+[2022:09:07:13:58:28:454687 MESSAGE] Started happily...
+[2022:09:07:14:26:28:768538 MESSAGE] Devices changed...
+[2022:09:07:14:28:25:697200 MESSAGE] Devices changed...
+[2022:09:07:14:28:53:042803 MESSAGE] Devices changed...
+[2022:09:07:15:15:59:308533 MESSAGE] Devices changed...
+[2022:09:07:15:25:25:539194 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:07:15:25:25:541655 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:07:15:25:25:760998 WARNING] Failed to find bookmarks file!
+[2022:09:07:15:25:26:294186 MESSAGE] Started happily...
+[2022:09:08:09:48:59:782442 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:08:09:48:59:784238 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:08:09:48:59:993216 WARNING] Failed to find bookmarks file!
+[2022:09:08:09:49:00:550249 MESSAGE] Started happily...
+[2022:09:08:12:54:28:193196 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:08:12:54:28:193813 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:08:12:54:28:411670 WARNING] Failed to find bookmarks file!
+[2022:09:08:12:54:28:925808 MESSAGE] Started happily...
+[2022:09:08:14:15:28:455724 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:08:14:15:28:456605 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:08:14:15:28:688605 WARNING] Failed to find bookmarks file!
+[2022:09:08:14:15:29:187315 MESSAGE] Started happily...
+[2022:09:08:14:23:48:811850 MESSAGE] Main menu changed...
+[2022:09:08:14:35:36:539468 MESSAGE] Main menu changed...
+[2022:09:08:14:38:32:474952 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:08:14:38:32:475872 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:08:14:38:32:710102 WARNING] Failed to find bookmarks file!
+[2022:09:08:14:38:33:208738 MESSAGE] Started happily...
+[2022:09:08:21:40:29:634239 MESSAGE] Caught signal (15), bye!
+[2022:09:08:21:40:36:893941 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:08:21:40:36:895426 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:08:21:40:37:074423 WARNING] Failed to find bookmarks file!
+[2022:09:08:21:40:37:736838 MESSAGE] Started happily...
+[2022:09:08:21:46:09:819626 MESSAGE] Caught signal (15), bye!
+[2022:09:08:21:46:16:078544 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:08:21:46:16:079717 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:08:21:46:16:282883 WARNING] Failed to find bookmarks file!
+[2022:09:08:21:46:16:831421 MESSAGE] Started happily...
+[2022:09:08:22:51:01:167424 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:08:22:51:01:168419 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:08:22:51:01:407040 WARNING] Failed to find bookmarks file!
+[2022:09:08:22:51:02:000655 MESSAGE] Started happily...
+[2022:09:09:10:13:36:930745 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:09:10:13:36:932062 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:09:10:13:37:169239 WARNING] Failed to find bookmarks file!
+[2022:09:09:10:13:37:717908 MESSAGE] Started happily...
+[2022:09:09:11:39:07:807555 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:09:11:39:07:809734 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:09:11:39:08:041329 WARNING] Failed to find bookmarks file!
+[2022:09:09:11:39:08:546851 MESSAGE] Started happily...
+[2022:09:09:12:50:11:021962 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:09:12:50:11:024808 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:09:12:50:11:280038 WARNING] Failed to find bookmarks file!
+[2022:09:09:12:50:11:770634 MESSAGE] Started happily...
+[2022:09:09:13:19:37:929123 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:09:13:19:37:930953 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:09:13:19:38:186698 WARNING] Failed to find bookmarks file!
+[2022:09:09:13:19:38:728124 MESSAGE] Started happily...
+[2022:09:09:14:11:36:999035 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:09:14:11:37:000265 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:09:14:11:37:119413 WARNING] Failed to find bookmarks file!
+[2022:09:09:14:11:37:625498 MESSAGE] Started happily...
+[2022:09:09:15:30:47:293075 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:09:15:30:47:293658 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:09:15:30:47:529644 WARNING] Failed to find bookmarks file!
+[2022:09:09:15:30:47:992203 MESSAGE] Started happily...
+[2022:09:09:19:08:33:892808 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:09:19:08:33:894820 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:09:19:08:34:160708 WARNING] Failed to find bookmarks file!
+[2022:09:09:19:08:34:695696 MESSAGE] Started happily...
+[2022:09:09:21:59:25:149539 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:09:21:59:25:150732 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:09:21:59:25:397913 WARNING] Failed to find bookmarks file!
+[2022:09:09:21:59:26:031127 MESSAGE] Started happily...
+[2022:09:10:09:51:54:159401 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:10:09:51:54:160175 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:10:09:51:54:424205 WARNING] Failed to find bookmarks file!
+[2022:09:10:09:51:54:896038 MESSAGE] Started happily...
+[2022:09:10:10:34:23:468406 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:10:10:34:23:470227 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:10:10:34:23:756219 WARNING] Failed to find bookmarks file!
+[2022:09:10:10:34:24:304054 MESSAGE] Started happily...
+[2022:09:10:10:40:04:157209 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:10:10:40:04:158916 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:10:10:40:04:418095 WARNING] Failed to find bookmarks file!
+[2022:09:10:10:40:05:027540 MESSAGE] Started happily...
+[2022:09:10:11:24:12:697377 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:10:11:24:12:698786 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:10:11:24:12:947828 WARNING] Failed to find bookmarks file!
+[2022:09:10:11:24:13:627229 MESSAGE] Started happily...
+[2022:09:10:11:34:12:347225 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:10:11:34:12:348009 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:10:11:34:12:607625 WARNING] Failed to find bookmarks file!
+[2022:09:10:11:34:13:130464 MESSAGE] Started happily...
+[2022:09:10:11:35:49:228272 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:10:11:35:49:229055 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:10:11:35:49:523063 WARNING] Failed to find bookmarks file!
+[2022:09:10:11:35:50:223427 MESSAGE] Started happily...
+[2022:09:10:13:58:38:964781 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:10:13:58:38:965410 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:10:13:58:39:147787 WARNING] Failed to find bookmarks file!
+[2022:09:10:13:58:39:637120 MESSAGE] Started happily...
+[2022:09:10:14:17:56:907117 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:10:14:17:56:908739 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:10:14:17:57:183101 WARNING] Failed to find bookmarks file!
+[2022:09:10:14:17:57:794443 MESSAGE] Started happily...
+[2022:09:10:15:06:19:627796 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:10:15:06:19:632910 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:10:15:06:19:871773 WARNING] Failed to find bookmarks file!
+[2022:09:10:15:06:20:416059 MESSAGE] Started happily...
+[2022:09:10:15:09:40:960619 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:10:15:09:40:961320 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:10:15:09:41:195950 WARNING] Failed to find bookmarks file!
+[2022:09:10:15:09:41:663189 MESSAGE] Started happily...
+[2022:09:10:15:15:20:711480 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:10:15:15:20:713135 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:10:15:15:21:000732 WARNING] Failed to find bookmarks file!
+[2022:09:10:15:15:21:666374 MESSAGE] Started happily...
+[2022:09:10:15:19:00:808831 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:10:15:19:00:811174 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:10:15:19:01:182395 WARNING] Failed to find bookmarks file!
+[2022:09:10:15:19:01:890345 MESSAGE] Started happily...
+[2022:09:10:15:25:47:081941 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:10:15:25:47:084240 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:10:15:25:47:342070 WARNING] Failed to find bookmarks file!
+[2022:09:10:15:25:47:853220 MESSAGE] Started happily...
+[2022:09:10:15:32:53:720567 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:10:15:32:53:721333 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:10:15:32:53:949213 WARNING] Failed to find bookmarks file!
+[2022:09:10:15:32:54:457873 MESSAGE] Started happily...
+[2022:09:10:15:39:32:577698 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:10:15:39:32:578183 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:10:15:39:32:772336 WARNING] Failed to find bookmarks file!
+[2022:09:10:15:39:33:265652 MESSAGE] Started happily...
+[2022:09:10:19:51:37:072366 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:10:19:51:37:074097 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:10:19:51:37:297311 WARNING] Failed to find bookmarks file!
+[2022:09:10:19:51:37:823275 MESSAGE] Started happily...
+[2022:09:10:20:37:29:768636 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:10:20:37:29:769665 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:10:20:37:29:971602 WARNING] Failed to find bookmarks file!
+[2022:09:10:20:37:30:502933 MESSAGE] Started happily...
+[2022:09:10:22:00:44:743684 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:10:22:00:44:744513 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:10:22:00:44:946998 WARNING] Failed to find bookmarks file!
+[2022:09:10:22:00:45:424681 MESSAGE] Started happily...
+[2022:09:10:22:09:57:399426 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:10:22:09:57:400063 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:10:22:09:57:634464 WARNING] Failed to find bookmarks file!
+[2022:09:10:22:09:58:143519 MESSAGE] Started happily...
+[2022:09:10:22:15:25:984859 MESSAGE] Main menu changed...
+[2022:09:10:22:15:43:387315 MESSAGE] Main menu changed...
+[2022:09:10:22:21:03:073525 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:10:22:21:03:077073 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:10:22:21:03:302340 WARNING] Failed to find bookmarks file!
+[2022:09:10:22:21:03:806783 MESSAGE] Started happily...
+[2022:09:10:22:34:57:012896 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:10:22:34:57:013524 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:10:22:34:57:249943 WARNING] Failed to find bookmarks file!
+[2022:09:10:22:34:57:742925 MESSAGE] Started happily...
+[2022:09:11:11:17:34:007433 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:11:11:17:34:008955 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:11:11:17:34:303625 WARNING] Failed to find bookmarks file!
+[2022:09:11:11:17:34:893609 MESSAGE] Started happily...
+[2022:09:11:11:34:35:210857 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:11:11:34:35:211769 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:11:11:34:35:511439 WARNING] Failed to find bookmarks file!
+[2022:09:11:11:34:36:073159 MESSAGE] Started happily...
+[2022:09:11:11:44:12:665542 MESSAGE] Main menu changed...
+[2022:09:11:11:48:59:719120 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:11:11:48:59:719873 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:11:11:48:59:991672 WARNING] Failed to find bookmarks file!
+[2022:09:11:11:49:00:582433 MESSAGE] Started happily...
+[2022:09:11:12:19:36:718075 MESSAGE] Main menu changed...
+[2022:09:11:12:19:53:630466 MESSAGE] Main menu changed...
+[2022:09:11:12:19:54:258624 MESSAGE] Main menu changed...
+[2022:09:11:12:20:17:146681 MESSAGE] Main menu changed...
+[2022:09:11:12:20:19:755282 MESSAGE] Main menu changed...
+[2022:09:11:12:20:27:875393 MESSAGE] Main menu changed...
+[2022:09:11:12:20:28:931245 MESSAGE] Main menu changed...
+[2022:09:11:12:20:29:550464 MESSAGE] Main menu changed...
+[2022:09:11:12:20:30:372728 MESSAGE] Main menu changed...
+[2022:09:11:12:27:21:992457 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:11:12:27:21:994257 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:11:12:27:22:256085 WARNING] Failed to find bookmarks file!
+[2022:09:11:12:27:22:794796 MESSAGE] Started happily...
+[2022:09:11:12:59:23:650631 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:11:12:59:23:652684 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:11:12:59:23:909727 WARNING] Failed to find bookmarks file!
+[2022:09:11:12:59:24:408664 MESSAGE] Started happily...
+[2022:09:11:13:10:11:505373 MESSAGE] Main menu changed...
+[2022:09:11:13:10:14:453792 MESSAGE] Main menu changed...
+[2022:09:11:13:10:16:268518 MESSAGE] Main menu changed...
+[2022:09:11:13:12:18:430602 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:11:13:12:18:431118 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:11:13:12:18:708642 WARNING] Failed to find bookmarks file!
+[2022:09:11:13:12:19:200715 MESSAGE] Started happily...
+[2022:09:11:19:51:01:316186 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:11:19:51:01:317543 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:11:19:51:01:536823 WARNING] Failed to find bookmarks file!
+[2022:09:11:19:51:02:038583 MESSAGE] Started happily...
+[2022:09:11:21:55:10:713883 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:11:21:55:10:715003 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:11:21:55:10:934254 WARNING] Failed to find bookmarks file!
+[2022:09:11:21:55:11:447841 MESSAGE] Started happily...
+[2022:09:11:22:09:53:982354 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:11:22:09:53:983166 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:11:22:09:54:213264 WARNING] Failed to find bookmarks file!
+[2022:09:11:22:09:54:724910 MESSAGE] Started happily...
+[2022:09:11:22:24:59:328790 MESSAGE] Main menu changed...
+[2022:09:11:23:22:14:163164 MESSAGE] Caught signal (15), bye!
+[2022:09:11:23:25:22:586130 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:11:23:25:22:586999 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:11:23:25:22:835199 WARNING] Failed to find bookmarks file!
+[2022:09:11:23:25:23:342878 MESSAGE] Started happily...
+[2022:09:11:23:27:58:175211 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:11:23:27:58:176236 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:11:23:27:58:398864 WARNING] Failed to find bookmarks file!
+[2022:09:11:23:27:58:952502 MESSAGE] Started happily...
+[2022:09:12:01:23:37:613065 MESSAGE] Caught signal (15), bye!
+[2022:09:12:03:04:47:150907 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:12:03:04:47:152173 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:12:03:04:47:421624 WARNING] Failed to find bookmarks file!
+[2022:09:12:03:04:48:070461 MESSAGE] Started happily...
+[2022:09:12:09:01:52:540038 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:12:09:01:52:540438 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:12:09:01:52:739189 WARNING] Failed to find bookmarks file!
+[2022:09:12:09:01:53:213960 MESSAGE] Started happily...
+[2022:09:18:23:00:21:697437 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:18:23:00:21:698535 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:18:23:00:21:796224 WARNING] Failed to find bookmarks file!
+[2022:09:18:23:00:21:877291 WARNING] Icon "applications-accessories" not found! Using default icon...
+[2022:09:18:23:00:22:022819 MESSAGE] Started happily...
+[2022:09:18:23:00:49:311845 WARNING] Failed to get application for xid 62914566: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:01:14:173290 WARNING] Failed to get application for xid 56623435: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:02:18:604952 WARNING] Failed to get application for xid 25166297: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:02:23:667583 WARNING] Failed to get application for xid 25166478: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:03:44:600704 WARNING] Failed to get application for xid 69206022: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:03:47:417528 WARNING] Failed to get application for xid 71303175: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:04:45:413080 WARNING] Failed to get application for xid 71303174: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:05:19:122641 WARNING] Failed to get application for xid 73400327: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:08:26:093975 WARNING] Failed to get application for xid 73400326: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:08:26:963841 WARNING] Failed to get application for xid 75497489: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:08:33:713665 WARNING] Failed to get application for xid 62914566: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:08:33:715428 WARNING] Failed to get application for xid 69206022: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:08:33:723295 WARNING] Failed to get application for xid 71303174: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:08:33:725554 WARNING] Failed to get application for xid 73400326: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:09:23:760166 WARNING] Failed to get application for xid 73400327: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:10:06:944733 WARNING] Failed to get application for xid 73400788: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:13:24:158274 WARNING] Failed to get application for xid 81788934: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:13:28:198463 WARNING] Failed to get application for xid 83886086: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:13:43:418663 WARNING] Failed to get application for xid 81788934: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:13:49:033656 WARNING] Failed to get application for xid 56624530: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:14:47:393942 WARNING] Failed to get application for xid 37748742: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:15:17:650972 WARNING] Failed to get application for xid 81788935: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:16:32:721254 WARNING] Failed to get application for xid 69206032: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:16:43:463412 WARNING] Failed to get application for xid 69206023: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:17:59:405436 WARNING] Failed to get application for xid 83886083: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:18:02:555823 WARNING] Failed to get application for xid 81788935: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:18:07:608398 MESSAGE] Main menu changed...
+[2022:09:18:23:18:59:963552 WARNING] Failed to get application for xid 25168230: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:19:12:379389 WARNING] Failed to get application for xid 60817414: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:19:12:988201 WARNING] Failed to get application for xid 62914577: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:19:37:918961 WARNING] Failed to get application for xid 62914567: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:19:59:074237 WARNING] Failed to get application for xid 60817961: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:21:25:619609 WARNING] Failed to get application for xid 60818535: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:22:14:903542 WARNING] Failed to get application for xid 62914563: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:22:17:143439 WARNING] Failed to get application for xid 62914568: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:22:34:501886 MESSAGE] Main menu changed...
+[2022:09:18:23:22:35:630122 WARNING] Failed to get application for xid 62914568: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:22:50:350911 WARNING] Failed to get application for xid 60817414: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:22:55:781461 WARNING] Failed to get application for xid 65011715: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:22:58:628385 WARNING] Failed to get application for xid 65011919: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:23:17:215469 WARNING] Failed to get application for xid 65011718: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:24:00:078034 WARNING] Failed to get application for xid 71303171: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:27:46:546794 WARNING] Failed to get application for xid 96468998: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:28:02:914566 WARNING] Failed to get application for xid 69206022: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:29:08:053421 WARNING] Failed to get application for xid 96468998: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:29:20:878361 WARNING] Failed to get application for xid 96468998: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:30:53:358380 WARNING] Failed to get application for xid 96468999: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:31:07:416372 MESSAGE] Main menu changed...
+[2022:09:18:23:31:24:851795 MESSAGE] Main menu changed...
+[2022:09:18:23:31:37:710746 WARNING] Failed to get application for xid 96468999: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:31:54:223506 WARNING] Failed to get application for xid 96468998: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:32:03:904908 WARNING] Failed to get application for xid 96468998: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:32:23:053297 WARNING] Failed to get application for xid 96468998: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:33:04:605310 WARNING] Failed to get application for xid 96468998: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:33:35:185030 WARNING] Failed to get application for xid 69206019: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:33:39:189560 WARNING] Failed to get application for xid 69206261: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:36:01:351709 WARNING] Failed to get application for xid 69206022: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:36:10:080259 WARNING] Failed to get application for xid 69206022: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:36:18:475295 WARNING] Failed to get application for xid 69206022: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:36:31:819677 WARNING] Failed to get application for xid 69206022: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:36:43:241227 WARNING] Failed to get application for xid 69206022: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:36:50:808076 WARNING] Failed to get application for xid 69206022: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:37:21:725427 WARNING] Failed to get application for xid 62914577: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:37:29:786822 WARNING] Failed to get application for xid 62914566: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:37:33:586922 WARNING] Failed to get application for xid 37748986: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:38:16:448660 MESSAGE] Main menu changed...
+[2022:09:18:23:38:32:581499 WARNING] Failed to get application for xid 69206019: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:39:28:278144 WARNING] Failed to get application for xid 96468995: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:40:15:018065 WARNING] Failed to get application for xid 96468995: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:40:45:241121 WARNING] Failed to get application for xid 62914566: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:41:13:982441 WARNING] Failed to get application for xid 62914566: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:41:25:393738 WARNING] Failed to get application for xid 37748991: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:45:04:869099 WARNING] Failed to get application for xid 62914566: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:46:02:912506 WARNING] Failed to get application for xid 62914563: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:46:06:703933 WARNING] Failed to get application for xid 92274691: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:46:46:037686 WARNING] Failed to get application for xid 37748996: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:46:49:398124 WARNING] Failed to get application for xid 92274694: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:47:02:995677 WARNING] Failed to get application for xid 62914563: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:48:10:838478 MESSAGE] Caught signal (15), bye!
+[2022:09:18:23:48:57:252216 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:18:23:48:57:252664 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:18:23:48:57:364817 WARNING] Failed to find bookmarks file!
+[2022:09:18:23:48:57:500185 MESSAGE] Started happily...
+[2022:09:18:23:49:41:501937 WARNING] Failed to get application for xid 52428806: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:50:32:726116 WARNING] Failed to get application for xid 60817901: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:50:58:351888 WARNING] Failed to get application for xid 52428806: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:51:09:281402 WARNING] Failed to get application for xid 52428807: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:51:20:455379 WARNING] Failed to get application for xid 52428806: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:51:24:348798 WARNING] Failed to get application for xid 52429254: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:51:38:197676 WARNING] Failed to get application for xid 37748742: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:51:46:444710 WARNING] Failed to get application for xid 52428806: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:51:47:027350 WARNING] Failed to get application for xid 62914577: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:51:53:365401 WARNING] Icon "system settings" not found! Using default icon...
+[2022:09:18:23:51:57:557154 WARNING] Icon "system settings" not found! Using default icon...
+[2022:09:18:23:52:01:203371 WARNING] Icon "system settings" not found! Using default icon...
+[2022:09:18:23:52:07:355883 WARNING] Failed to get application for xid 54530234: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:52:31:597754 MESSAGE] Saving Pies to "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:18:23:53:57:275669 WARNING] Failed to get application for xid 52428806: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:54:06:772883 WARNING] Failed to get application for xid 52428806: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:54:47:955538 WARNING] Failed to get application for xid 67108870: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:54:58:184108 WARNING] Failed to get application for xid 60818346: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:56:04:860751 WARNING] Failed to get application for xid 60818554: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:56:47:783173 WARNING] Failed to get application for xid 60818581: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:57:19:581905 WARNING] Failed to get application for xid 52428806: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:58:07:850861 WARNING] Failed to get application for xid 25166383: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:58:16:740381 WARNING] Failed to get application for xid 52428806: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:58:17:153499 WARNING] Failed to get application for xid 67108881: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:58:32:268774 WARNING] Failed to get application for xid 52429330: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:58:55:406208 WARNING] Failed to get application for xid 52429393: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:18:23:59:53:766180 WARNING] Failed to get application for xid 67108867: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:00:02:04:037329 WARNING] Failed to get application for xid 67108870: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:00:02:20:652213 WARNING] Failed to get application for xid 67108870: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:00:02:28:383802 WARNING] Failed to get application for xid 52429453: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:00:02:34:096696 WARNING] Failed to get application for xid 67108870: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:00:02:43:179200 WARNING] Failed to get application for xid 71303174: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:00:02:45:715809 WARNING] Failed to get application for xid 71303381: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:00:02:45:816894 WARNING] Failed to get application for xid 37748949: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:00:03:07:897729 WARNING] Failed to get application for xid 71303175: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:00:03:27:307561 WARNING] Failed to get application for xid 52428806: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:00:04:50:336733 WARNING] Failed to get application for xid 69206023: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:00:05:02:537272 WARNING] Failed to get application for xid 71303175: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:00:05:24:188219 WARNING] Failed to get application for xid 60817816: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:00:05:35:773762 MESSAGE] Caught signal (15), bye!
+[2022:09:19:15:09:44:119190 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:19:15:09:44:120223 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:19:15:09:44:227463 WARNING] Failed to find bookmarks file!
+[2022:09:19:15:09:44:360159 MESSAGE] Started happily...
+[2022:09:19:15:10:06:723214 WARNING] Failed to get application for xid 60817411: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:15:10:32:726918 WARNING] Failed to get application for xid 75497478: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:15:11:35:931814 WARNING] Failed to get application for xid 60817414: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:15:14:46:554384 WARNING] Failed to get application for xid 67108872: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:15:16:19:942440 WARNING] Failed to get application for xid 67108870: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:15:16:42:549262 WARNING] Failed to get application for xid 69206023: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:15:16:50:046972 WARNING] Failed to get application for xid 67108871: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:15:17:20:696407 WARNING] Failed to get application for xid 67108871: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:15:17:34:435521 MESSAGE] Main menu changed...
+[2022:09:19:15:17:42:497936 WARNING] Failed to get application for xid 69206019: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:15:17:45:877151 WARNING] Failed to get application for xid 67108871: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:15:18:53:515104 WARNING] Failed to get application for xid 62914567: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:15:19:58:460775 WARNING] Failed to get application for xid 69206019: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:15:20:09:805453 WARNING] Failed to get application for xid 69206024: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:15:20:25:093962 MESSAGE] Main menu changed...
+[2022:09:19:15:20:25:748639 WARNING] Failed to get application for xid 69206024: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:15:21:07:985816 MESSAGE] Main menu changed...
+[2022:09:19:15:21:57:493338 WARNING] Failed to get application for xid 62914567: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:15:23:15:611715 WARNING] Failed to get application for xid 62914567: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:15:23:43:983697 WARNING] Failed to get application for xid 62914563: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:15:23:49:855266 WARNING] Failed to get application for xid 88080387: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:15:24:30:762433 WARNING] Failed to get application for xid 62914566: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:15:25:45:636409 WARNING] Failed to get application for xid 62914566: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:15:25:55:201247 WARNING] Failed to get application for xid 75497473: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:15:26:18:341245 WARNING] Failed to get application for xid 75497473: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:15:26:25:441102 WARNING] Failed to get application for xid 75497473: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:15:26:42:451606 WARNING] Failed to get application for xid 79691783: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:15:26:57:278161 WARNING] Failed to get application for xid 37748742: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:15:27:03:011969 MESSAGE] Main menu changed...
+[2022:09:19:15:28:19:916552 WARNING] Failed to get application for xid 75497479: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:15:30:45:928365 WARNING] Failed to get application for xid 62914566: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:15:30:59:981246 WARNING] Failed to get application for xid 73400323: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:15:31:24:204944 WARNING] Failed to get application for xid 62914563: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:15:36:42:557355 WARNING] Failed to get application for xid 62914566: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:15:36:51:949953 WARNING] Failed to get application for xid 75497478: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:15:36:55:184210 WARNING] Failed to get application for xid 37748949: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:15:37:12:016598 WARNING] Failed to get application for xid 75497479: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:15:39:04:779462 WARNING] Failed to get application for xid 75497475: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:15:40:59:406638 WARNING] Failed to get application for xid 92274695: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:15:43:06:137780 MESSAGE] Caught signal (15), bye!
+[2022:09:19:15:43:42:920224 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:19:15:43:42:920945 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:19:15:43:43:019313 WARNING] Failed to find bookmarks file!
+[2022:09:19:15:43:43:160721 MESSAGE] Started happily...
+[2022:09:19:15:43:57:703332 WARNING] Failed to get application for xid 60817414: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:15:43:58:269575 WARNING] Failed to get application for xid 62914577: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:15:44:52:750707 WARNING] Failed to get application for xid 60817414: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:15:45:10:609061 WARNING] Failed to get application for xid 60817415: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:15:46:19:113510 WARNING] Failed to get application for xid 60817414: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:15:46:24:458416 MESSAGE] Caught signal (15), bye!
+[2022:09:19:15:48:36:861455 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:19:15:48:36:862041 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:19:15:48:36:963738 WARNING] Failed to find bookmarks file!
+[2022:09:19:15:48:37:097516 MESSAGE] Started happily...
+[2022:09:19:15:48:55:261890 WARNING] Failed to get application for xid 60817414: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:15:49:18:759026 WARNING] Failed to get application for xid 69206022: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:15:49:49:608399 WARNING] Failed to get application for xid 69206019: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:15:55:00:753555 WARNING] Failed to get application for xid 62914566: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:15:55:26:843766 WARNING] Failed to get application for xid 62914567: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:15:56:22:659165 WARNING] Failed to get application for xid 71303175: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:15:56:57:026642 WARNING] Failed to get application for xid 71303171: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:15:58:13:724939 WARNING] Failed to get application for xid 94371847: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:16:02:02:572572 MESSAGE] Main menu changed...
+[2022:09:19:16:09:34:562690 WARNING] Failed to get application for xid 69206022: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:16:10:08:635556 WARNING] Failed to get application for xid 37748742: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:16:23:05:198423 WARNING] Failed to get application for xid 71303174: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:16:23:18:812200 WARNING] Failed to get application for xid 71303174: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:16:23:33:775778 WARNING] Failed to get application for xid 29360462: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:16:24:05:954357 WARNING] Failed to get application for xid 29360537: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:16:24:42:999122 WARNING] Failed to get application for xid 62914563: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:16:25:02:663237 WARNING] Failed to get application for xid 29360573: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:16:25:05:748931 WARNING] Failed to get application for xid 62914563: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:16:25:31:086893 WARNING] Failed to get application for xid 69206022: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:16:25:56:385609 MESSAGE] Main menu changed...
+[2022:09:19:16:26:14:185267 WARNING] Failed to get application for xid 69206022: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:16:26:40:305968 WARNING] Failed to get application for xid 69206022: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:16:26:53:789870 WARNING] Failed to get application for xid 37748949: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:16:27:09:385040 MESSAGE] Caught signal (15), bye!
+[2022:09:19:16:27:48:895761 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:19:16:27:48:896465 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:19:16:27:48:993052 WARNING] Failed to find bookmarks file!
+[2022:09:19:16:27:49:128786 MESSAGE] Started happily...
+[2022:09:19:16:28:07:689767 WARNING] Failed to get application for xid 60817414: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:16:28:28:526810 WARNING] Failed to get application for xid 65011728: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:16:28:31:123664 MESSAGE] Caught signal (15), bye!
+[2022:09:19:16:31:30:030174 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:19:16:31:30:030763 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:19:16:31:30:131813 WARNING] Failed to find bookmarks file!
+[2022:09:19:16:31:30:266672 MESSAGE] Started happily...
+[2022:09:19:16:31:45:181853 WARNING] Failed to get application for xid 48234502: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:16:31:45:649655 WARNING] Failed to get application for xid 62914577: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:16:31:55:523648 WARNING] Failed to get application for xid 48234502: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:16:32:00:743752 WARNING] Failed to get application for xid 65011719: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:16:32:05:684596 WARNING] Failed to get application for xid 67108867: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:16:34:27:834761 WARNING] Failed to get application for xid 62914566: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:16:34:37:327594 WARNING] Failed to get application for xid 37748742: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:16:34:49:557253 WARNING] Failed to get application for xid 62914563: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:16:35:24:772072 WARNING] Failed to get application for xid 79691778: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:16:36:07:436317 WARNING] Failed to get application for xid 90177542: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:16:40:30:658137 WARNING] Failed to get application for xid 90177542: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:16:45:26:458460 WARNING] Failed to get application for xid 37748949: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:16:46:37:006224 WARNING] Failed to get application for xid 92275345: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:16:47:01:321999 WARNING] Failed to get application for xid 92275403: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:16:47:01:365108 WARNING] Failed to get application for xid 92275405: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:16:48:36:718230 WARNING] Failed to get application for xid 65011715: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:16:48:52:793783 WARNING] Failed to get application for xid 62914566: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:16:50:47:455749 WARNING] Failed to get application for xid 65011719: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:16:51:06:332528 WARNING] Failed to get application for xid 65011715: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:16:52:33:628896 WARNING] Failed to get application for xid 92274704: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:16:58:44:983815 MESSAGE] Caught signal (15), bye!
+[2022:09:19:16:59:24:056443 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:19:16:59:24:057484 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:19:16:59:24:165330 WARNING] Failed to find bookmarks file!
+[2022:09:19:16:59:24:294246 MESSAGE] Started happily...
+[2022:09:19:17:03:53:949757 WARNING] Failed to get application for xid 56623110: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:17:04:11:512541 WARNING] Failed to get application for xid 56623110: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:17:04:21:796227 MESSAGE] Caught signal (15), bye!
+[2022:09:19:18:47:50:477531 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:19:18:47:50:478205 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:19:18:47:50:589780 WARNING] Failed to find bookmarks file!
+[2022:09:19:18:47:50:778562 MESSAGE] Started happily...
+[2022:09:19:18:48:19:262280 WARNING] Failed to get application for xid 60817414: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:18:48:19:753024 WARNING] Failed to get application for xid 62914577: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:18:48:45:363290 WARNING] Failed to get application for xid 60817414: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:18:48:50:864397 WARNING] Failed to get application for xid 62914566: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:18:49:16:603220 WARNING] Failed to get application for xid 60817414: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:18:49:27:863508 WARNING] Failed to get application for xid 60817414: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:18:49:55:880530 WARNING] Failed to get application for xid 65011719: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:18:52:50:191986 WARNING] Failed to get application for xid 67108870: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:18:53:03:715328 WARNING] Failed to get application for xid 67108870: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:18:53:36:038052 WARNING] Failed to get application for xid 67108871: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:18:54:20:107294 WARNING] Failed to get application for xid 65011718: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:18:55:13:156506 WARNING] Failed to get application for xid 37748742: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:18:59:41:778608 WARNING] Failed to get application for xid 69206022: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:18:59:43:921489 WARNING] Failed to get application for xid 69206023: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:19:06:49:029541 WARNING] Failed to get application for xid 69206019: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:19:19:55:466032 WARNING] Failed to get application for xid 62914563: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:19:21:14:493856 MESSAGE] Caught signal (15), bye!
+[2022:09:19:19:21:51:109414 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:19:19:21:51:109835 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:19:19:21:51:211173 WARNING] Failed to find bookmarks file!
+[2022:09:19:19:21:51:364010 MESSAGE] Started happily...
+[2022:09:19:19:22:23:284360 WARNING] Failed to get application for xid 60817415: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:19:23:44:927003 WARNING] Failed to get application for xid 62914566: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:19:26:37:562372 WARNING] Failed to get application for xid 65011715: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:19:30:19:241622 WARNING] Failed to get application for xid 37748742: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:19:30:53:504652 MESSAGE] Caught signal (15), bye!
+[2022:09:19:19:31:42:545969 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:19:19:31:42:546505 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:19:19:31:42:651669 WARNING] Failed to find bookmarks file!
+[2022:09:19:19:31:42:808394 MESSAGE] Started happily...
+[2022:09:19:19:32:35:746657 WARNING] Failed to get application for xid 60817414: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:19:32:58:328858 WARNING] Failed to get application for xid 60817414: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:19:32:58:983360 WARNING] Failed to get application for xid 62914577: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:19:33:33:007220 WARNING] Failed to get application for xid 62914563: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:19:44:31:463700 WARNING] Failed to get application for xid 62914567: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:19:45:17:172785 WARNING] Failed to get application for xid 62914985: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:19:46:49:102880 WARNING] Failed to get application for xid 62915030: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:19:47:52:696396 WARNING] Failed to get application for xid 62915346: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:19:47:59:905326 WARNING] Failed to get application for xid 62915351: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:19:53:10:374673 WARNING] Failed to get application for xid 65011720: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:19:54:41:568251 WARNING] Failed to get application for xid 54526543: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:19:56:21:719100 WARNING] Failed to get application for xid 60817414: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:19:56:22:318237 WARNING] Failed to get application for xid 65011729: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:19:56:27:721785 WARNING] Failed to get application for xid 60817411: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:19:56:37:053719 WARNING] Failed to get application for xid 60817415: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:19:59:16:912019 WARNING] Failed to get application for xid 67108870: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:20:01:00:701703 WARNING] Failed to get application for xid 62914567: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:20:01:28:886761 MESSAGE] Main menu changed...
+[2022:09:19:20:02:34:109042 WARNING] Failed to get application for xid 62914567: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:20:03:01:724624 MESSAGE] Main menu changed...
+[2022:09:19:20:03:20:932880 MESSAGE] Main menu changed...
+[2022:09:19:20:03:30:832016 WARNING] Failed to get application for xid 62914567: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:20:05:25:048734 WARNING] Failed to get application for xid 62914566: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:20:05:41:134882 WARNING] Failed to get application for xid 65012277: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:20:06:38:958812 WARNING] Failed to get application for xid 67108867: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:20:07:58:184161 WARNING] Failed to get application for xid 67108870: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:20:08:28:644020 WARNING] Failed to get application for xid 62914566: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:20:09:14:095481 MESSAGE] Main menu changed...
+[2022:09:19:20:11:34:348666 WARNING] Failed to get application for xid 62914576: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:20:11:37:042379 MESSAGE] Caught signal (15), bye!
+[2022:09:19:20:12:17:903526 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:19:20:12:17:904803 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:19:20:12:18:019780 WARNING] Failed to find bookmarks file!
+[2022:09:19:20:12:18:173385 MESSAGE] Started happily...
+[2022:09:19:20:15:39:592226 WARNING] Failed to get application for xid 60817414: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:20:36:27:074297 WARNING] Failed to get application for xid 60817414: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:21:04:07:154510 MESSAGE] Caught signal (15), bye!
+[2022:09:19:21:50:18:800078 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:19:21:50:18:800818 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:19:21:50:18:915169 WARNING] Failed to find bookmarks file!
+[2022:09:19:21:50:19:076465 MESSAGE] Started happily...
+[2022:09:19:21:51:55:477927 WARNING] Failed to get application for xid 60817411: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:21:53:41:746925 WARNING] Failed to get application for xid 83886086: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:22:11:27:637559 WARNING] Failed to get application for xid 60817411: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:22:12:05:889463 WARNING] Failed to get application for xid 60817894: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:22:14:51:589451 WARNING] Failed to get application for xid 83886086: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:22:15:29:128083 WARNING] Failed to get application for xid 83886086: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:22:31:43:123501 WARNING] Failed to get application for xid 83886097: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:22:31:52:595685 WARNING] Failed to get application for xid 37748742: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:22:31:58:648624 MESSAGE] Main menu changed...
+[2022:09:19:22:32:17:640741 WARNING] Failed to get application for xid 85983238: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:22:32:26:059305 WARNING] Failed to get application for xid 90177542: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:22:32:32:351778 WARNING] Failed to get application for xid 90177539: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:22:32:35:996778 WARNING] Failed to get application for xid 90177537: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:22:32:37:209664 WARNING] Failed to get application for xid 90177539: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:22:34:08:441268 WARNING] Failed to get application for xid 90177537: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:22:34:09:629010 WARNING] Failed to get application for xid 90177539: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:22:34:18:599611 WARNING] Failed to get application for xid 90177537: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:22:34:19:808987 WARNING] Failed to get application for xid 90177539: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:22:49:01:916787 WARNING] Failed to get application for xid 88080390: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:22:49:18:711935 WARNING] Failed to get application for xid 62914565: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:22:49:26:532256 WARNING] Failed to get application for xid 62914566: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:22:49:39:227621 WARNING] Failed to get application for xid 62914566: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:22:49:41:703182 MESSAGE] Main menu changed...
+[2022:09:19:22:49:43:735814 WARNING] Failed to get application for xid 62914565: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:22:49:47:908082 WARNING] Failed to get application for xid 62914566: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:22:49:49:747631 MESSAGE] Main menu changed...
+[2022:09:19:22:49:50:621356 WARNING] Failed to get application for xid 62914561: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:22:49:51:791773 WARNING] Failed to get application for xid 62914563: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2022:09:19:22:50:17:712317 MESSAGE] Caught signal (15), bye!
+[2022:09:19:22:50:58:250722 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:19:22:50:58:251712 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:19:22:50:58:341941 WARNING] Failed to find bookmarks file!
+[2022:09:19:22:50:58:498124 MESSAGE] Started happily...
+[2022:09:19:23:07:13:426191 MESSAGE] Caught signal (15), bye!
+[2022:09:19:23:09:00:761396 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:19:23:09:00:762234 WARNING] Running on Wayland - running with limited options.
+[2022:09:19:23:09:00:762973 WARNING] The WindowList slice group is not supported on Wayland.
+[2022:09:19:23:09:00:763344 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:19:23:09:00:835294 WARNING] Failed to find bookmarks file!
+[2022:09:19:23:09:00:990929 MESSAGE] Started happily...
+[2022:09:19:23:11:02:761111 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:19:23:11:02:761597 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:19:23:11:02:906148 WARNING] Failed to find bookmarks file!
+[2022:09:19:23:11:03:272661 MESSAGE] Started happily...
+[2022:09:19:23:15:47:450218 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:19:23:15:47:451387 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:19:23:15:47:706431 WARNING] Failed to find bookmarks file!
+[2022:09:19:23:15:48:148196 MESSAGE] Started happily...
+[2022:09:20:15:40:49:008561 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:20:15:40:49:010103 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:20:15:40:49:220940 WARNING] Failed to find bookmarks file!
+[2022:09:20:15:40:49:657851 MESSAGE] Started happily...
+[2022:09:20:15:41:12:149074 MESSAGE] Caught signal (15), bye!
+[2022:09:20:15:41:23:459464 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:20:15:41:23:461793 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:20:15:41:23:620131 WARNING] Failed to find bookmarks file!
+[2022:09:20:15:41:23:993402 MESSAGE] Started happily...
+[2022:09:20:16:48:52:982032 MESSAGE] Main menu changed...
+[2022:09:20:17:57:09:023169 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:20:17:57:09:025161 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:20:17:57:09:278690 WARNING] Failed to find bookmarks file!
+[2022:09:20:17:57:09:775519 MESSAGE] Started happily...
+[2022:09:20:18:24:34:994253 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:20:18:24:34:995379 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:20:18:24:35:262957 WARNING] Failed to find bookmarks file!
+[2022:09:20:18:24:35:730303 MESSAGE] Started happily...
+[2022:09:20:18:32:35:157933 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:20:18:32:35:159155 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:20:18:32:35:396874 WARNING] Failed to find bookmarks file!
+[2022:09:20:18:32:35:878697 MESSAGE] Started happily...
+[2022:09:20:22:44:25:524894 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:20:22:44:25:527671 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:20:22:44:25:771864 WARNING] Failed to find bookmarks file!
+[2022:09:20:22:44:26:239290 MESSAGE] Started happily...
+[2022:09:21:16:56:58:683940 MESSAGE] Main menu changed...
+[2022:09:21:17:00:08:028129 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:21:17:00:08:030226 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:21:17:00:08:302745 WARNING] Failed to find bookmarks file!
+[2022:09:21:17:00:08:723574 MESSAGE] Started happily...
+[2022:09:21:17:03:06:429296 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:21:17:03:06:431688 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:21:17:03:06:685835 WARNING] Failed to find bookmarks file!
+[2022:09:21:17:03:07:104598 MESSAGE] Started happily...
+[2022:09:21:17:11:41:060817 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:21:17:11:41:064082 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:21:17:11:41:275384 WARNING] Failed to find bookmarks file!
+[2022:09:21:17:11:41:718836 MESSAGE] Started happily...
+[2022:09:21:17:14:02:255131 MESSAGE] Main menu changed...
+[2022:09:21:17:18:59:673716 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:21:17:18:59:675889 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:21:17:18:59:935322 WARNING] Failed to find bookmarks file!
+[2022:09:21:17:19:00:370933 MESSAGE] Started happily...
+[2022:09:21:17:30:19:190845 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:21:17:30:19:191931 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:21:17:30:19:424097 WARNING] Failed to find bookmarks file!
+[2022:09:21:17:30:19:905319 MESSAGE] Started happily...
+[2022:09:21:17:32:03:933769 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:21:17:32:03:934890 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:21:17:32:04:166419 WARNING] Failed to find bookmarks file!
+[2022:09:21:17:32:04:657663 MESSAGE] Started happily...
+[2022:09:21:18:57:07:835401 MESSAGE] Devices changed...
+[2022:09:21:18:57:09:037193 MESSAGE] Devices changed...
+[2022:09:21:18:57:31:708995 MESSAGE] Devices changed...
+[2022:09:21:18:57:35:478833 MESSAGE] Devices changed...
+[2022:09:21:19:00:59:972767 MESSAGE] Main menu changed...
+[2022:09:21:19:01:13:961232 MESSAGE] Main menu changed...
+[2022:09:21:19:01:15:470838 MESSAGE] Main menu changed...
+[2022:09:21:23:06:30:343402 MESSAGE] Caught signal (15), bye!
+[2022:09:22:16:49:09:741298 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:22:16:49:09:744026 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:22:16:49:09:972228 WARNING] Failed to find bookmarks file!
+[2022:09:22:16:49:10:447961 MESSAGE] Started happily...
+[2022:09:22:20:56:53:943752 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:22:20:56:53:945946 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:22:20:56:54:208142 WARNING] Failed to find bookmarks file!
+[2022:09:22:20:56:54:710368 MESSAGE] Started happily...
+[2022:09:22:21:11:48:329717 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:22:21:11:48:331932 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:22:21:11:48:555507 WARNING] Failed to find bookmarks file!
+[2022:09:22:21:11:49:062301 MESSAGE] Started happily...
+[2022:09:22:22:57:34:577976 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:22:22:57:34:580152 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:22:22:57:34:827903 WARNING] Failed to find bookmarks file!
+[2022:09:22:22:57:35:398403 MESSAGE] Started happily...
+[2022:09:23:10:33:03:577098 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:23:10:33:03:578043 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:23:10:33:03:791692 WARNING] Failed to find bookmarks file!
+[2022:09:23:10:33:04:216927 MESSAGE] Started happily...
+[2022:09:23:15:20:58:633407 MESSAGE] Main menu changed...
+[2022:09:23:15:24:57:110866 MESSAGE] Main menu changed...
+[2022:09:23:15:26:08:789546 MESSAGE] Main menu changed...
+[2022:09:23:15:26:09:787884 MESSAGE] Main menu changed...
+[2022:09:23:16:54:29:946813 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:23:16:54:29:948092 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:23:16:54:30:199471 WARNING] Failed to find bookmarks file!
+[2022:09:23:16:54:30:674795 MESSAGE] Started happily...
+[2022:09:24:09:29:26:347662 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:24:09:29:26:349134 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:24:09:29:26:579883 WARNING] Failed to find bookmarks file!
+[2022:09:24:09:29:27:193446 MESSAGE] Started happily...
+[2022:09:24:20:35:09:475415 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:24:20:35:09:476049 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:24:20:35:09:713124 WARNING] Failed to find bookmarks file!
+[2022:09:24:20:35:10:204656 MESSAGE] Started happily...
+[2022:09:25:12:28:28:957213 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:25:12:28:28:958484 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:25:12:28:29:229179 WARNING] Failed to find bookmarks file!
+[2022:09:25:12:28:29:767918 MESSAGE] Started happily...
+[2022:09:25:12:30:35:182268 MESSAGE] Devices changed...
+[2022:09:25:18:47:56:188095 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:25:18:47:56:189088 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:25:18:47:56:423807 WARNING] Failed to find bookmarks file!
+[2022:09:25:18:47:56:835489 MESSAGE] Started happily...
+[2022:09:25:19:03:10:499299 MESSAGE] Main menu changed...
+[2022:09:26:00:22:25:244497 MESSAGE] Main menu changed...
+[2022:09:26:00:22:26:189621 MESSAGE] Main menu changed...
+[2022:09:26:00:22:39:701023 MESSAGE] Main menu changed...
+[2022:09:26:00:22:40:319970 MESSAGE] Main menu changed...
+[2022:09:26:00:45:05:415456 MESSAGE] Main menu changed...
+[2022:09:26:00:45:07:815901 MESSAGE] Main menu changed...
+[2022:09:26:00:46:27:145797 MESSAGE] Main menu changed...
+[2022:09:26:10:42:55:801131 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:26:10:42:55:803674 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:26:10:42:56:050626 WARNING] Failed to find bookmarks file!
+[2022:09:26:10:42:56:535349 MESSAGE] Started happily...
+[2022:09:26:11:04:57:973038 MESSAGE] Main menu changed...
+[2022:09:26:11:05:09:672350 MESSAGE] Main menu changed...
+[2022:09:26:11:05:29:774124 MESSAGE] Main menu changed...
+[2022:09:26:16:09:10:623838 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:26:16:09:10:626296 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:26:16:09:10:899953 WARNING] Failed to find bookmarks file!
+[2022:09:26:16:09:11:326828 MESSAGE] Started happily...
+[2022:09:26:16:11:27:740498 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:26:16:11:27:743406 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:26:16:11:27:979443 WARNING] Failed to find bookmarks file!
+[2022:09:26:16:11:28:399259 MESSAGE] Started happily...
+[2022:09:26:19:21:17:597159 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:26:19:21:17:599237 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:26:19:21:17:847233 WARNING] Failed to find bookmarks file!
+[2022:09:26:19:21:18:313017 MESSAGE] Started happily...
+[2022:09:27:11:55:36:340926 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:27:11:55:36:343538 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:27:11:55:36:619034 WARNING] Failed to find bookmarks file!
+[2022:09:27:11:55:37:181936 MESSAGE] Started happily...
+[2022:09:27:16:51:51:037996 MESSAGE] Main menu changed...
+[2022:09:27:17:21:36:356900 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:27:17:21:36:357455 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:27:17:21:36:620823 WARNING] Failed to find bookmarks file!
+[2022:09:27:17:21:37:085084 MESSAGE] Started happily...
+[2022:09:28:10:34:25:498853 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:28:10:34:25:501307 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:28:10:34:25:793824 WARNING] Failed to find bookmarks file!
+[2022:09:28:10:34:26:372853 MESSAGE] Started happily...
+[2022:09:28:11:04:14:327826 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:28:11:04:14:330511 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:28:11:04:14:556205 WARNING] Failed to find bookmarks file!
+[2022:09:28:11:04:15:041689 MESSAGE] Started happily...
+[2022:09:28:12:53:48:043835 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:28:12:53:48:044681 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:28:12:53:48:312588 WARNING] Failed to find bookmarks file!
+[2022:09:28:12:53:48:753261 MESSAGE] Started happily...
+[2022:09:28:13:35:04:333259 MESSAGE] Main menu changed...
+[2022:09:28:16:28:05:500488 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:28:16:28:05:505717 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:28:16:28:05:744879 WARNING] Failed to find bookmarks file!
+[2022:09:28:16:28:06:230881 MESSAGE] Started happily...
+[2022:09:28:20:53:54:626004 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:28:20:53:54:628403 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:28:20:53:54:882475 WARNING] Failed to find bookmarks file!
+[2022:09:28:20:53:55:487461 MESSAGE] Started happily...
+[2022:09:28:20:59:24:325997 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:28:20:59:24:328482 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:28:20:59:24:666319 WARNING] Failed to find bookmarks file!
+[2022:09:28:20:59:25:235697 MESSAGE] Started happily...
+[2022:09:28:22:00:54:087160 MESSAGE] Main menu changed...
+[2022:09:28:22:00:55:989517 MESSAGE] Main menu changed...
+[2022:09:28:22:01:03:480898 MESSAGE] Main menu changed...
+[2022:09:28:22:07:39:264076 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:28:22:07:39:265361 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:28:22:07:39:508172 WARNING] Failed to find bookmarks file!
+[2022:09:28:22:07:39:935979 MESSAGE] Started happily...
+[2022:09:29:15:16:42:085517 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:29:15:16:42:086714 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:29:15:16:42:335664 WARNING] Failed to find bookmarks file!
+[2022:09:29:15:16:42:840558 MESSAGE] Started happily...
+[2022:09:29:15:23:25:732609 MESSAGE] Main menu changed...
+[2022:09:29:15:24:34:180751 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:29:15:24:34:181979 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:29:15:24:34:424435 WARNING] Failed to find bookmarks file!
+[2022:09:29:15:24:34:853344 MESSAGE] Started happily...
+[2022:09:29:15:29:17:001172 MESSAGE] Main menu changed...
+[2022:09:29:15:29:31:824975 MESSAGE] Main menu changed...
+[2022:09:29:19:11:28:376268 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:29:19:11:28:377774 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:29:19:11:28:654019 WARNING] Failed to find bookmarks file!
+[2022:09:29:19:11:29:201392 MESSAGE] Started happily...
+[2022:09:29:21:11:08:200386 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:29:21:11:08:202068 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:29:21:11:08:486223 WARNING] Failed to find bookmarks file!
+[2022:09:29:21:11:08:964219 MESSAGE] Started happily...
+[2022:09:29:23:21:00:347874 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:29:23:21:00:351531 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:29:23:21:00:619582 WARNING] Failed to find bookmarks file!
+[2022:09:29:23:21:01:105856 MESSAGE] Started happily...
+[2022:09:30:02:37:11:407191 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:30:02:37:11:408667 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:30:02:37:11:652627 WARNING] Failed to find bookmarks file!
+[2022:09:30:02:37:12:115292 MESSAGE] Started happily...
+[2022:09:30:09:40:38:021993 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:30:09:40:38:022785 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:30:09:40:38:308082 WARNING] Failed to find bookmarks file!
+[2022:09:30:09:40:38:794612 MESSAGE] Started happily...
+[2022:09:30:09:45:54:287676 MESSAGE] Main menu changed...
+[2022:09:30:09:47:07:589716 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:30:09:47:07:590402 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:30:09:47:07:839577 WARNING] Failed to find bookmarks file!
+[2022:09:30:09:47:08:282325 MESSAGE] Started happily...
+[2022:09:30:09:52:48:678275 MESSAGE] Main menu changed...
+[2022:09:30:11:11:09:711113 MESSAGE] Main menu changed...
+[2022:09:30:11:17:36:711921 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:30:11:17:36:713442 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:30:11:17:36:978268 WARNING] Failed to find bookmarks file!
+[2022:09:30:11:17:37:513801 MESSAGE] Started happily...
+[2022:09:30:11:23:06:114994 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:30:11:23:06:116154 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:30:11:23:06:425010 WARNING] Failed to find bookmarks file!
+[2022:09:30:11:23:06:906493 MESSAGE] Started happily...
+[2022:09:30:11:29:32:814624 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:30:11:29:32:815544 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:30:11:29:33:090625 WARNING] Failed to find bookmarks file!
+[2022:09:30:11:29:33:560824 MESSAGE] Started happily...
+[2022:09:30:13:19:51:255735 MESSAGE] Saving Pies to "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:30:15:15:51:648399 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:30:15:15:51:649341 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:30:15:15:51:944589 WARNING] Failed to find bookmarks file!
+[2022:09:30:15:15:52:503534 MESSAGE] Started happily...
+[2022:09:30:15:26:05:678393 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:30:15:26:05:680510 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:30:15:26:05:938354 WARNING] Failed to find bookmarks file!
+[2022:09:30:15:26:06:430621 MESSAGE] Started happily...
+[2022:09:30:21:07:49:502611 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:30:21:07:49:505440 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:30:21:07:49:817960 WARNING] Failed to find bookmarks file!
+[2022:09:30:21:07:50:363551 MESSAGE] Started happily...
+[2022:09:30:21:49:45:341345 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:09:30:21:49:45:343488 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:09:30:21:49:45:610514 WARNING] Failed to find bookmarks file!
+[2022:09:30:21:49:46:077167 MESSAGE] Started happily...
+[2022:10:01:23:23:30:440929 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:10:01:23:23:30:442013 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:10:01:23:23:30:733158 WARNING] Failed to find bookmarks file!
+[2022:10:01:23:23:31:260047 MESSAGE] Started happily...
+[2022:10:02:02:59:44:332265 MESSAGE] Main menu changed...
+[2022:10:02:02:59:51:432817 MESSAGE] Main menu changed...
+[2022:10:02:02:59:54:133409 MESSAGE] Main menu changed...
+[2022:10:02:03:02:58:121499 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:10:02:03:02:58:122677 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:10:02:03:02:58:546287 WARNING] Failed to find bookmarks file!
+[2022:10:02:03:02:59:597966 MESSAGE] Started happily...
+[2022:10:02:03:05:48:618166 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:10:02:03:05:48:619560 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:10:02:03:05:48:961056 WARNING] Failed to find bookmarks file!
+[2022:10:02:03:05:49:497022 MESSAGE] Started happily...
+[2022:10:02:03:33:47:599681 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:10:02:03:33:47:600901 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:10:02:03:33:47:923936 WARNING] Failed to find bookmarks file!
+[2022:10:02:03:33:48:427079 MESSAGE] Started happily...
+[2022:10:02:07:35:17:515092 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:10:02:07:35:17:516987 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:10:02:07:35:17:815048 WARNING] Failed to find bookmarks file!
+[2022:10:02:07:35:18:362493 MESSAGE] Started happily...
+[2022:10:02:18:28:42:116481 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:10:02:18:28:42:117903 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:10:02:18:28:42:380303 WARNING] Failed to find bookmarks file!
+[2022:10:02:18:28:43:171148 MESSAGE] Started happily...
+[2022:10:02:22:42:17:713461 MESSAGE] Caught signal (15), bye!
+[2022:10:02:22:42:22:521063 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:10:02:22:42:22:525338 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:10:02:22:42:22:774953 WARNING] Failed to find bookmarks file!
+[2022:10:02:22:42:23:214205 MESSAGE] Started happily...
+[2022:10:02:22:43:07:633088 MESSAGE] Saving Pies to "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:10:03:10:24:02:515392 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:10:03:10:24:02:516387 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:10:03:10:24:02:791592 WARNING] Failed to find bookmarks file!
+[2022:10:03:10:24:03:313646 MESSAGE] Started happily...
+[2022:10:03:17:56:49:594582 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:10:03:17:56:49:595278 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:10:03:17:56:49:882921 WARNING] Failed to find bookmarks file!
+[2022:10:03:17:56:50:461559 MESSAGE] Started happily...
+[2022:10:04:00:20:34:239090 MESSAGE] Main menu changed...
+[2022:10:04:00:20:39:178377 MESSAGE] Main menu changed...
+[2022:10:04:00:20:40:356361 MESSAGE] Main menu changed...
+[2022:10:04:01:24:26:026473 MESSAGE] Main menu changed...
+[2022:10:04:01:40:12:267232 MESSAGE] Main menu changed...
+[2022:10:04:01:40:16:319975 MESSAGE] Main menu changed...
+[2022:10:04:01:40:17:146740 MESSAGE] Main menu changed...
+[2022:10:04:01:51:16:177814 MESSAGE] Main menu changed...
+[2022:10:04:12:53:26:432178 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:10:04:12:53:26:432724 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:10:04:12:53:26:714293 WARNING] Failed to find bookmarks file!
+[2022:10:04:12:53:27:251515 MESSAGE] Started happily...
+[2022:10:04:19:15:31:036605 MESSAGE] Main menu changed...
+[2022:10:04:19:15:46:072525 MESSAGE] Main menu changed...
+[2022:10:04:19:19:06:418038 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:10:04:19:19:06:419767 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:10:04:19:19:06:690294 WARNING] Failed to find bookmarks file!
+[2022:10:04:19:19:07:182825 MESSAGE] Started happily...
+[2022:10:04:19:20:44:001238 MESSAGE] Main menu changed...
+[2022:10:04:19:21:33:132329 MESSAGE] Main menu changed...
+[2022:10:04:19:33:56:202350 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:10:04:19:33:56:203709 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:10:04:19:33:56:512884 WARNING] Failed to find bookmarks file!
+[2022:10:04:19:33:57:060960 MESSAGE] Started happily...
+[2022:10:04:19:48:53:859962 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:10:04:19:48:53:860551 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:10:04:19:48:54:150286 WARNING] Failed to find bookmarks file!
+[2022:10:04:19:48:54:682511 MESSAGE] Started happily...
+[2022:10:05:07:51:39:615434 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:10:05:07:51:39:616512 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:10:05:07:51:39:877884 WARNING] Failed to find bookmarks file!
+[2022:10:05:07:51:40:439015 MESSAGE] Started happily...
+[2022:10:05:20:02:50:674297 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:10:05:20:02:50:675346 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:10:05:20:02:50:951420 WARNING] Failed to find bookmarks file!
+[2022:10:05:20:02:51:442331 MESSAGE] Started happily...
+[2022:10:06:01:45:01:553451 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:10:06:01:45:01:554406 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:10:06:01:45:01:907698 WARNING] Failed to find bookmarks file!
+[2022:10:06:01:45:02:625838 MESSAGE] Started happily...
+[2022:10:06:13:52:14:089694 MESSAGE] Main menu changed...
+[2022:10:06:14:19:54:344108 MESSAGE] Devices changed...
+[2022:10:06:14:20:04:355735 MESSAGE] Devices changed...
+[2022:10:06:14:20:39:848250 MESSAGE] Devices changed...
+[2022:10:06:14:21:19:958987 MESSAGE] Devices changed...
+[2022:10:06:14:25:46:630403 MESSAGE] Main menu changed...
+[2022:10:06:14:41:02:391799 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:10:06:14:41:02:393141 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:10:06:14:41:02:706174 WARNING] Failed to find bookmarks file!
+[2022:10:06:14:41:03:297590 MESSAGE] Started happily...
+[2022:10:06:16:36:19:539189 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:10:06:16:36:19:541290 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:10:06:16:36:19:782540 WARNING] Failed to find bookmarks file!
+[2022:10:06:16:36:20:297165 MESSAGE] Started happily...
+[2022:10:06:17:23:32:966957 MESSAGE] Main menu changed...
+[2022:10:06:17:27:42:461162 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:10:06:17:27:42:463507 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:10:06:17:27:42:758905 WARNING] Failed to find bookmarks file!
+[2022:10:06:17:27:43:269333 MESSAGE] Started happily...
+[2022:10:06:17:31:29:122659 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:10:06:17:31:29:123824 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:10:06:17:31:29:471597 WARNING] Failed to find bookmarks file!
+[2022:10:06:17:31:30:017549 MESSAGE] Started happily...
+[2022:10:07:02:11:00:366167 MESSAGE] Main menu changed...
+[2022:10:07:02:13:01:998208 MESSAGE] Main menu changed...
+[2022:10:07:02:13:17:008780 MESSAGE] Main menu changed...
+[2022:10:07:02:15:33:172536 MESSAGE] Main menu changed...
+[2022:10:07:04:04:32:854233 MESSAGE] Main menu changed...
+[2022:10:07:04:59:44:256500 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:10:07:04:59:44:257532 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:10:07:04:59:44:577656 WARNING] Failed to find bookmarks file!
+[2022:10:07:04:59:45:174087 MESSAGE] Started happily...
+[2022:10:07:05:21:16:590481 MESSAGE] Main menu changed...
+[2022:10:07:05:21:23:971814 MESSAGE] Main menu changed...
+[2022:10:07:11:41:23:642029 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:10:07:11:41:23:643953 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:10:07:11:41:24:011647 WARNING] Failed to find bookmarks file!
+[2022:10:07:11:41:24:716586 MESSAGE] Started happily...
+[2022:10:07:17:20:56:023823 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:10:07:17:20:56:025095 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:10:07:17:20:56:330646 WARNING] Failed to find bookmarks file!
+[2022:10:07:17:20:56:823689 MESSAGE] Started happily...
+[2022:10:07:18:19:14:230883 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:10:07:18:19:14:232029 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:10:07:18:19:14:548741 WARNING] Failed to find bookmarks file!
+[2022:10:07:18:19:15:121114 MESSAGE] Started happily...
+[2022:10:07:18:36:42:259660 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:10:07:18:36:42:260280 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:10:07:18:36:42:529586 WARNING] Failed to find bookmarks file!
+[2022:10:07:18:36:43:131405 MESSAGE] Started happily...
+[2022:10:07:18:56:40:213041 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:10:07:18:56:40:213602 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:10:07:18:56:40:506332 WARNING] Failed to find bookmarks file!
+[2022:10:07:18:56:41:097235 MESSAGE] Started happily...
+[2022:10:07:19:12:00:352681 MESSAGE] Main menu changed...
+[2022:10:07:19:18:55:632967 MESSAGE] Main menu changed...
+[2022:10:07:19:42:07:487447 MESSAGE] Main menu changed...
+[2022:10:07:19:46:00:022500 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:10:07:19:46:00:024465 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:10:07:19:46:00:304491 WARNING] Failed to find bookmarks file!
+[2022:10:07:19:46:00:808350 MESSAGE] Started happily...
+[2022:10:07:19:53:29:154414 MESSAGE] Main menu changed...
+[2022:10:07:20:13:09:546113 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:10:07:20:13:09:546738 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:10:07:20:13:09:842850 WARNING] Failed to find bookmarks file!
+[2022:10:07:20:13:10:375157 MESSAGE] Started happily...
+[2022:10:07:20:19:20:389822 MESSAGE] Main menu changed...
+[2022:10:07:21:14:51:415558 MESSAGE] Devices changed...
+[2022:10:07:21:35:23:866244 MESSAGE] Devices changed...
+[2022:10:07:21:39:46:714108 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:10:07:21:39:46:715795 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:10:07:21:39:46:988765 WARNING] Failed to find bookmarks file!
+[2022:10:07:21:39:47:529237 MESSAGE] Started happily...
+[2022:10:07:21:59:25:917152 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:10:07:21:59:25:917996 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:10:07:21:59:26:189579 WARNING] Failed to find bookmarks file!
+[2022:10:07:21:59:26:681913 MESSAGE] Started happily...
+[2022:10:07:22:37:26:985634 MESSAGE] Caught signal (15), bye!
+[2022:10:07:22:37:40:316582 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:10:07:22:37:40:317429 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:10:07:22:37:40:618284 WARNING] Failed to find bookmarks file!
+[2022:10:07:22:37:41:113111 MESSAGE] Started happily...
+[2022:10:08:01:55:55:272371 MESSAGE] Devices changed...
+[2022:10:08:09:41:46:881299 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:10:08:09:41:46:887552 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:10:08:09:41:47:167052 WARNING] Failed to find bookmarks file!
+[2022:10:08:09:41:47:716373 MESSAGE] Started happily...
+[2022:10:08:10:12:31:750990 MESSAGE] Main menu changed...
+[2022:10:08:10:33:05:453813 MESSAGE] Main menu changed...
+[2022:10:08:11:28:20:706744 MESSAGE] Main menu changed...
+[2022:10:08:12:24:32:961956 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:10:08:12:24:32:963061 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:10:08:12:24:33:250849 WARNING] Failed to find bookmarks file!
+[2022:10:08:12:24:33:806711 MESSAGE] Started happily...
+[2022:10:08:13:46:23:886640 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:10:08:13:46:23:887456 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:10:08:13:46:24:189534 WARNING] Failed to find bookmarks file!
+[2022:10:08:13:46:24:680881 MESSAGE] Started happily...
+[2022:10:08:17:10:43:156181 MESSAGE] Main menu changed...
+[2022:10:08:17:16:48:324641 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:10:08:17:16:48:325309 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:10:08:17:16:48:598404 WARNING] Failed to find bookmarks file!
+[2022:10:08:17:16:49:159700 MESSAGE] Started happily...
+[2022:10:08:20:48:39:149253 MESSAGE] Saving Pies to "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:10:09:09:56:38:387391 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:10:09:09:56:38:388158 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:10:09:09:56:38:779551 WARNING] Failed to find bookmarks file!
+[2022:10:09:09:56:39:401458 MESSAGE] Started happily...
+[2022:10:09:13:50:23:163539 MESSAGE] Main menu changed...
+[2022:10:09:18:26:35:737832 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:10:09:18:26:35:747365 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:10:09:18:26:36:084798 WARNING] Failed to find bookmarks file!
+[2022:10:09:18:26:36:584220 MESSAGE] Started happily...
+[2022:10:09:18:27:44:571529 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:10:09:18:27:44:573067 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:10:09:18:27:44:875740 WARNING] Failed to find bookmarks file!
+[2022:10:09:18:27:45:370003 MESSAGE] Started happily...
+[2022:10:09:22:26:28:602123 MESSAGE] Main menu changed...
+[2022:10:09:22:53:16:708021 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:10:09:22:53:16:708969 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:10:09:22:53:17:084430 WARNING] Failed to find bookmarks file!
+[2022:10:09:22:53:17:561894 MESSAGE] Started happily...
+[2022:10:09:23:30:48:202909 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:10:09:23:30:48:204085 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:10:09:23:30:48:489932 WARNING] Failed to find bookmarks file!
+[2022:10:09:23:30:48:956852 MESSAGE] Started happily...
+[2022:10:09:23:39:37:155581 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:10:09:23:39:37:161696 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:10:09:23:39:37:504219 WARNING] Failed to find bookmarks file!
+[2022:10:09:23:39:37:991963 MESSAGE] Started happily...
+[2022:10:10:00:44:22:890777 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:10:10:00:44:22:891855 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:10:10:00:44:23:177277 WARNING] Failed to find bookmarks file!
+[2022:10:10:00:44:23:777778 MESSAGE] Started happily...
+[2022:10:10:01:30:32:989698 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:10:10:01:30:32:992987 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:10:10:01:30:33:289818 WARNING] Failed to find bookmarks file!
+[2022:10:10:01:30:33:851553 MESSAGE] Started happily...
+[2022:10:10:06:25:20:863600 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:10:10:06:25:20:864918 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:10:10:06:25:21:183445 WARNING] Failed to find bookmarks file!
+[2022:10:10:06:25:21:632283 MESSAGE] Started happily...
+[2022:10:10:10:09:43:769812 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:10:10:10:09:43:773533 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:10:10:10:09:44:092856 WARNING] Failed to find bookmarks file!
+[2022:10:10:10:09:44:619341 MESSAGE] Started happily...
+[2022:10:10:10:12:06:939172 MESSAGE] Devices changed...
+[2022:10:10:10:47:10:038889 MESSAGE] Devices changed...
+[2022:10:10:10:52:43:153523 MESSAGE] Devices changed...
+[2022:10:10:10:57:02:627765 MESSAGE] Devices changed...
+[2022:10:10:13:03:25:144891 MESSAGE] Main menu changed...
+[2022:10:10:18:09:37:242987 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:10:10:18:09:37:244916 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:10:10:18:09:37:555971 WARNING] Failed to find bookmarks file!
+[2022:10:10:18:09:38:072006 MESSAGE] Started happily...
+[2022:10:10:22:23:39:437343 MESSAGE] Devices changed...
+[2022:10:10:22:58:14:644384 MESSAGE] Devices changed...
+[2022:10:11:08:03:51:189232 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:10:11:08:03:51:190660 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:10:11:08:03:51:538512 WARNING] Failed to find bookmarks file!
+[2022:10:11:08:03:52:085537 MESSAGE] Started happily...
+[2022:10:11:11:42:51:749361 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:10:11:11:42:51:751432 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:10:11:11:42:52:061501 WARNING] Failed to find bookmarks file!
+[2022:10:11:11:42:52:655197 MESSAGE] Started happily...
+[2022:10:11:21:35:27:493980 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:10:11:21:35:27:495479 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:10:11:21:35:27:804584 WARNING] Failed to find bookmarks file!
+[2022:10:11:21:35:28:348169 MESSAGE] Started happily...
+[2022:10:12:23:32:45:480203 MESSAGE] Main menu changed...
+[2022:10:12:23:32:58:972341 MESSAGE] Main menu changed...
+[2022:10:12:23:34:04:097391 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:10:12:23:34:04:098113 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:10:12:23:34:04:369162 WARNING] Failed to find bookmarks file!
+[2022:10:12:23:34:04:958745 MESSAGE] Started happily...
+[2022:10:12:23:55:50:945762 MESSAGE] Main menu changed...
+[2022:10:12:23:55:57:751100 MESSAGE] Main menu changed...
+[2022:10:12:23:56:05:961036 MESSAGE] Main menu changed...
+[2022:10:12:23:56:26:836186 MESSAGE] Main menu changed...
+[2022:10:13:00:12:01:979894 MESSAGE] Main menu changed...
+[2022:10:13:00:12:02:536060 MESSAGE] Main menu changed...
+[2022:10:13:00:12:03:320559 MESSAGE] Main menu changed...
+[2022:10:13:00:12:05:112114 MESSAGE] Main menu changed...
+[2022:10:13:00:12:12:062017 MESSAGE] Main menu changed...
+[2022:10:13:00:12:12:633953 MESSAGE] Main menu changed...
+[2022:10:13:00:12:13:299731 MESSAGE] Main menu changed...
+[2022:10:13:00:12:13:849573 MESSAGE] Main menu changed...
+[2022:10:13:15:25:08:349641 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:10:13:15:25:08:354228 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:10:13:15:25:08:714654 WARNING] Failed to find bookmarks file!
+[2022:10:13:15:25:09:395706 MESSAGE] Started happily...
+[2022:10:13:15:31:31:065142 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:10:13:15:31:31:066656 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:10:13:15:31:31:371506 WARNING] Failed to find bookmarks file!
+[2022:10:13:15:31:32:082838 MESSAGE] Started happily...
+[2022:10:13:16:26:55:324940 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:10:13:16:26:55:326658 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:10:13:16:26:55:680226 WARNING] Failed to find bookmarks file!
+[2022:10:13:16:26:56:408364 MESSAGE] Started happily...
+[2022:10:13:16:39:45:000893 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:10:13:16:39:45:005703 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:10:13:16:39:45:308164 WARNING] Failed to find bookmarks file!
+[2022:10:13:16:39:45:844530 MESSAGE] Started happily...
+[2022:10:13:17:48:18:193358 MESSAGE] Main menu changed...
+[2022:10:13:17:48:32:842220 MESSAGE] Main menu changed...
+[2022:10:13:19:48:44:003859 MESSAGE] Main menu changed...
+[2022:10:13:20:45:43:039915 MESSAGE] Main menu changed...
+[2022:10:14:08:58:12:025228 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:10:14:08:58:12:026682 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:10:14:08:58:12:339764 WARNING] Failed to find bookmarks file!
+[2022:10:14:08:58:12:952132 MESSAGE] Started happily...
+[2022:10:14:11:17:54:255311 MESSAGE] Welcome to Gnome-Pie 0.7.3!
+[2022:10:14:11:17:54:255874 MESSAGE] Loading Pies from "/home/xeo/.config/gnome-pie/pies.conf".
+[2022:10:14:11:17:54:532841 WARNING] Failed to find bookmarks file!
+[2022:10:14:11:17:55:178741 MESSAGE] Started happily...
