@@ -1,0 +1,2 @@
+LD_LIBRARY_PATH=$( dirname $spotify ) LD_PRELOAD=/usr/local/lib/spotify-adblock.so LC_NUMERIC=en_US.utf8 $spotify $@
+

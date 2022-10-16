@@ -1,0 +1,3 @@
+xhost +SI:localuser:root
+clear
+neofetch --ascii /home/xeo/Dragon.txt --ascii_colors 1 | lolcat -h 0.30 -v 0.3 -r
